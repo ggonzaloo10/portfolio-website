@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gonzalo/portfolio/static/css/main.8f689f1c.css",
+    "main.js": "/gonzalo/portfolio/static/js/main.3df2ac02.js",
+    "static/js/787.28cb0dcd.chunk.js": "/gonzalo/portfolio/static/js/787.28cb0dcd.chunk.js",
+    "static/media/foto-carnet.jpg": "/gonzalo/portfolio/static/media/foto-carnet.3f3393f9fd2570314690.jpg",
+    "index.html": "/gonzalo/portfolio/index.html",
+    "main.8f689f1c.css.map": "/gonzalo/portfolio/static/css/main.8f689f1c.css.map",
+    "main.3df2ac02.js.map": "/gonzalo/portfolio/static/js/main.3df2ac02.js.map",
+    "787.28cb0dcd.chunk.js.map": "/gonzalo/portfolio/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f689f1c.css",
+    "static/js/main.3df2ac02.js"
+  ]
+}
